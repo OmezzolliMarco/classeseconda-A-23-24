@@ -1,4 +1,4 @@
-# Classe seconda 2023-2024
+# Classe seconda A 2023-2024
 In questo repository potete trovare tutti i codici visti in classe organizzati per lezione e argomento.
 
 ## Accesso ad un file
